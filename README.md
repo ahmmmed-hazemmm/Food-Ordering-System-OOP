@@ -60,20 +60,3 @@ public class User {
    ```bash
    mvn javafx:run
    ```
-
-## 📁 Project Structurefood-ordering-system/
-├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ │ └── com/example/gui/
-│ │ │ ├── controllers/
-│ │ │ ├── models/
-│ │ │ └── views/
-│ │ └── resources/
-│ │ ├── fxml/
-│ │ ├── css/
-│ │ └── images/
-│ └── test/
-│ └── java/
-└── pom.xml
-
